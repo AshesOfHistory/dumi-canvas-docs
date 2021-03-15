@@ -16,8 +16,8 @@ export default defineConfig({
       path: '/components'
     },
     {
-      title: '配置',
-      path: '/config'
+      title: '编排系统',
+      path: '/canvas'
     }
   ]
   // more config: https://d.umijs.org/config
