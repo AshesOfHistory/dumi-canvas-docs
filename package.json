@@ -28,6 +28,7 @@
     ]
   },
   "dependencies": {
+    "@wilson_p/rock_ui": "^0.1.4",
     "react": "^16.12.0"
   },
   "devDependencies": {
