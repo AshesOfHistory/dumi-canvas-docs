@@ -17,10 +17,6 @@ export default defineConfig({
       title: '组件',
       path: '/components',
     },
-    {
-      title: '编排系统',
-      path: '/canvas',
-    },
   ],
   // more config: https://d.umijs.org/config
 });
